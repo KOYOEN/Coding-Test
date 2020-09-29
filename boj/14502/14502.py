@@ -58,4 +58,4 @@ def dfs(count):
                 count -= 1
 
 dfs(0)
-print(result)1
+print(result)
